@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+
+<!--[if IE 9]><html lang="en" class="ie9 desktop-view not-mobile-device  anon"><![endif]-->
+<!--[if (!IE 9) | (!IE)]><!--><html class="desktop-view not-mobile-device anon" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Instagram is killing advertising - Radar from TechCabal</title>
+<meta content="One of the best phrases I have heard in a movie is from Morgan Freeman in the Box Office hit Lucy. Yes, box office hit because they went in with 40mil and came out with 450mil. So Lucy was a hit. The  part when Morgan sa&amp;hellip;" name="description">
+<meta content="" name="author">
+<meta content="Discourse 1.5.0.beta4 - https://github.com/discourse/discourse version 42bf8151b2a89ac2b770b4c716ce4915bd69030d" name="generator">
+<link href="/uploads/default/11/155efd1098280b93.png" rel="icon" type="image/png">
+<link href="/uploads/default/11/155efd1098280b93.png" rel="apple-touch-icon" type="image/png">
+<link href="/uploads/default/11/155efd1098280b93.png" rel="icon" sizes="144x144">
+<meta content="#ffffff" name="theme-color">
+<meta content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=yes" name="viewport">
+<link href="http://radar.techcabal.com/t/instagram-is-killing-advertising/3145" rel="canonical"/>
+<style>
+  @font-face {
+    font-family: 'FontAwesome';
+    src: url('/assets/fontawesome-webfont-8f805c2acd8a5cb40ef4e6c25f8e737c.eot?http://radar.techcabal.com&amp;2&v=4.4.0');
+    src: url('/assets/fontawesome-webfont-8f805c2acd8a5cb40ef4e6c25f8e737c.eot?http://radar.techcabal.com&amp;2&v=4.4.0#iefix') format('embedded-opentype'),
+         url('/assets/fontawesome-webfont-8e6c784479cbafa4f0e8784410170ff5.woff2?http://radar.techcabal.com&amp;2&v=4.4.0') format('woff2'),
+         url('/assets/fontawesome-webfont-638d2e4dd983a1b3b6f46e1aa637e938.woff?http://radar.techcabal.com&amp;2&v=4.4.0') format('woff'),
+         url('/assets/fontawesome-webfont-a3abcb1d6ac44e36287beb0c99ec49aa.ttf?http://radar.techcabal.com&amp;2&v=4.4.0') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+</style>
+<link href="/stylesheets/desktop_9138aba88c80203da8fd0e71fc9c2b05144dfd53.css?__ws=radar.techcabal.com" media="all" rel="stylesheet"/>
+<link class="custom-css" href="/site_customizations/7e202ef2-56d7-47d5-98d8-a9c8d15e57dd.css?target=desktop&amp;v=7b6b3ac501ed72e42e051bc8dd3fd63f&amp;__ws=radar.techcabal.com" media="all" rel="stylesheet" type="text/css">
+<meta content="!" name="fragment">
+<script src="/assets/preload_store-d16a3675434b5a0043157cfc2b850471.js"></script>
+<script src="/assets/locales/en-197e82be210caa01e2ec71dc473eddf3.js"></script>
+<script src="/assets/vendor-75453144fb0f3b6c16c7862399ef47bf.js"></script>
+<script src="/assets/application-e3e6a5a80246b94c5d22c7477079f6c0.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-39740518-5', {"cookieDomain":"auto"});
+  ga('send', 'pageview');
+
+</script>
+<link href="/manifest.json" rel="manifest">
+<link href="http://radar.techcabal.com/t/instagram-is-killing-advertising/3145.rss" rel="alternate" title="RSS feed of 'Instagram is killing advertising'" type="application/rss+xml"/>
+<meta content="Radar from TechCabal" property="og:site_name"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="http://radar.techcabal.com/t/instagram-is-killing-advertising/3145" property="og:url"/>
+<meta content="http://radar.techcabal.com/t/instagram-is-killing-advertising/3145" name="twitter:url"/>
+<meta content="Instagram is killing advertising" property="og:title"/>
+<meta content="Instagram is killing advertising" name="twitter:title"/>
+<meta content="One of the best phrases I have heard in a movie is from Morgan Freeman in the Box Office hit Lucy. Yes, box office hit because they went in with 40mil and came out with 450mil. So Lucy was a hit. The  part when Morgan said “Share it” (knowledge).   INSTAGRAM I have been working on advertising cost and I am very hard on the money because I will never have enough of it. After a lot of work, I will say Instagram is where startups need to go before the Big guns come pouring in. Below is a screen sho..." property="og:description"/>
+<meta content="One of the best phrases I have heard in a movie is from Morgan Freeman in the Box Office hit Lucy. Yes, box office hit because they went in with 40mil and came out with 450mil. So Lucy was a hit. The  part when Morgan said “Share it” (knowledge).   INSTAGRAM I have been working on advertising cost and I am very hard on the money because I will never have enough of it. After a lot of work, I will say Instagram is where startups need to go before the Big guns come pouring in. Below is a screen sho..." name="twitter:description"/>
+<meta content="http://radar.techcabal.com/uploads/default/optimized/2X/6/6b1b57e979ed354b843dbda55bce40e192f55b81_1_690x56.PNG" property="og:image"/>
+<meta content="http://radar.techcabal.com/uploads/default/optimized/2X/6/6b1b57e979ed354b843dbda55bce40e192f55b81_1_690x56.PNG" name="twitter:image"/>
+</link></meta></link></meta></meta></link></link></link></meta></meta></meta></meta></head>
+<body>
+<noscript data-path="/t/instagram-is-killing-advertising/3145">
+<header class="d-header">
+<div class="wrap">
+<div class="contents">
+<div class="row">
+<div class="title span13">
+<a href="/">
+<img alt="Radar from TechCabal" id="site-logo" src="/uploads/default/10/0799978c102c9934.png">
+</img></a>
+</div>
+<div class="panel clearfix">
+<a class="btn btn-primary btn-small login-button" href="/login"><i class="fa fa-user"></i> Log In</a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="wrap" id="main-outlet">
+<!-- preload-content: -->
+<h1>
+<a href="/t/instagram-is-killing-advertising/3145">Instagram is killing advertising</a>
+</h1>
+<hr>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/Uduak"><b itemprop="author">Uduak</b></a>
+<time datetime="2015-11-11T01:08:14Z" itemprop="datePublished">
+             2015-11-11 01:08:14 UTC
+           </time>
+</span>
+<span itemprop="position">#1</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>One of the best phrases I have heard in a movie is from Morgan Freeman in the Box Office hit Lucy. Yes, box office hit because they went in with 40mil and came out with 450mil. So Lucy was a hit.<br>The  part when Morgan said “Share it” (knowledge).</br></p>
+<p>INSTAGRAM<br>I have been working on advertising cost and I am very hard on the money because I will never have enough of it. After a lot of work, I will say Instagram is where startups need to go before the Big guns come pouring in.<br>Below is a screen shot from the test instagram ad i did targeting Nigeria only.</br></br></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" data-download-href="//radar.techcabal.com/uploads/default/6b1b57e979ed354b843dbda55bce40e192f55b81" href="//radar.techcabal.com/uploads/default/original/2X/6/6b1b57e979ed354b843dbda55bce40e192f55b81.PNG" title="instagram 1.PNG"><img height="56" src="//radar.techcabal.com/uploads/default/optimized/2X/6/6b1b57e979ed354b843dbda55bce40e192f55b81_1_690x56.PNG" width="690"><div class="meta">
+<span class="filename">instagram 1.PNG</span><span class="informations">998x82 13.3 KB</span><span class="expand"></span>
+</div></img></a></div></p>
+<p>It was costing $0.003 per result. Even <a href="http://www.shareapps.net" rel="nofollow">www.shareapps.net</a> which I squeezed cost NGN1.50k per view<br>$0.003 is 60kobo. <br>I used a video <a href="https://instagram.com/p/94DU5jwnGu/" rel="nofollow">https://instagram.com/p/94DU5jwnGu/</a> for the ad and you can go see the actual number of people who actually click Like on the video.<br>Anybody will tell you that the hardest thing to sell is a recharge website or app because everybody already has a preferred source.<br>Over the period we ran this ad at $5/day, we tracked 90downloads/day of which averagely 25 made a purchase.<br>Considering that instagram is for only smartphone users, I think every startup should go there.<br>This is my Nigerian specific ad target. I got the similar results for North America and Europe while The rest of African Countries Targeted ad was $0.002/view.(40kobo)</br></br></br></br></br></br></p>
+<p>TWITTER<br>Twitter always hurts because it is expensive in every direction. <br>Below is a screenshot from some tests. As you can see, I targeting different people sets.<br>Gossip handles – That was an ad targeting followers of linda, bellanaija etc.<br>Newsmedia handles target - nigerianewsdesk, punchng vanguard etc<br>Ecommerce handles tagrte was for followers of jumia, konga etc.<br>I also did one for the music industry (followers of wizkid, Don jazzy etc.) and the telcos (<span class="mention">@mtnng</span>, <span class="mention">@airtelnigeria</span> <span class="mention">@globacomlimited</span> and <span class="mention">@etisalat_9ja</span>)</br></br></br></br></br></br></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" data-download-href="//radar.techcabal.com/uploads/default/0942b369f472f45078ee6d36b84320d9b6109893" href="//radar.techcabal.com/uploads/default/original/2X/0/0942b369f472f45078ee6d36b84320d9b6109893.png" title="twitter1.png"><img height="356" src="//radar.techcabal.com/uploads/default/optimized/2X/0/0942b369f472f45078ee6d36b84320d9b6109893_1_690x356.png" width="690"><div class="meta">
+<span class="filename">twitter1.png</span><span class="informations">1001x517 101 KB</span><span class="expand"></span>
+</div></img></a></div></p>
+<p>The primary reason I add this to my R&amp;D work at Coremobile is to drive advertising because I am typically the empirical data guy.<br>On twitter, I have given up and we now use the Handshake Algorithm which has been delivering 200followers everyday consistently at NGN40,000/month. I wrote about it a while back.</br></p>
+<p>I think its important for companies (Big or Small) to get the best out of every money they spend. Instagram is killing it for smartphone consumers targeted ad right now. 60kobo per ad view is greatness.</p>
+</div>
+<meta content="UserLikes:19" itemprop="interactionCount">
+<meta content="UserComments:1" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/davidsmith8900"><b itemprop="author">davidsmith8900</b></a>
+<time datetime="2015-11-11T01:56:31Z" itemprop="datePublished">
+             2015-11-11 01:56:31 UTC
+           </time>
+</span>
+<span itemprop="position">#2</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>This post right here deserves a superlike or two likes. Thanks for the insight. It is threads/topics like this that we need. I have more questions to ask you, but I haven't fully read your post. I just skimmed through it. Also by the way, weren't you the same person who had that bulk sms app? You never answered my questions. Whats up?</p>
+</div>
+<meta content="UserLikes:0" itemprop="interactionCount">
+<meta content="UserComments:2" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/davidsmith8900"><b itemprop="author">davidsmith8900</b></a>
+<time datetime="2015-11-11T02:26:51Z" itemprop="datePublished">
+             2015-11-11 02:26:51 UTC
+           </time>
+</span>
+<span itemprop="position">#3</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote" data-post="1" data-topic="3145"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="https://avatars.discourse.org/v2/letter/u/c0e974/40.png" width="20">Uduak:</img></div>
+<blockquote><p>I will say Instagram is where startups need to go before the Big guns come pouring in.</p></blockquote></aside>
+<p>In what sense? I'm kinda lost in this statement. Will the big guns push us out? Or will they steal our traffic? Like please clarify whenever you can.</p>
+<aside class="quote" data-post="1" data-topic="3145"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="https://avatars.discourse.org/v2/letter/u/c0e974/40.png" width="20">Uduak:</img></div>
+<blockquote><p>Considering that instagram is for only smartphone users</p></blockquote></aside>
+<p>To be honest, I feel like this statement is an eye opener for me, because I never once realized that one can't use Instagram on dumb/feature phones. </p>
+<aside class="quote" data-post="1" data-topic="3145"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="https://avatars.discourse.org/v2/letter/u/c0e974/40.png" width="20">Uduak:</img></div>
+<blockquote><p>This is my Nigerian specific ad target. I got the similar results for North America and Europe while The rest of African Countries Targeted ad was $0.002/view.(40kobo)</p></blockquote></aside>
+<p>Before or after you tried targeting Nigeria specifically, did Instagram by any chance give you an estimate of how many users in Nigeria (or Africa in general) use their service? Any statistics? If so, do you mind sharing?</p>
+<aside class="quote" data-post="1" data-topic="3145"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="https://avatars.discourse.org/v2/letter/u/c0e974/40.png" width="20">Uduak:</img></div>
+<blockquote><p>I am typically the empirical data guy</p></blockquote></aside>
+<p>Very nice. Do you by any chance have any more important data insights (similar to this) that you will like to share? As in how many Nigerians actually use the internet daily? How many Nigerians actually use dumb/feature or smart phones? Also how many Nigerians still send/receive sms compared to Whatsapp?</p>
+<aside class="quote" data-post="1" data-topic="3145"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="https://avatars.discourse.org/v2/letter/u/c0e974/40.png" width="20">Uduak:</img></div>
+<blockquote><p>I wrote about it a while back.</p></blockquote></aside>
+<p>I was looking for this article on Radar. Is it here or somewhere else?</p>
+<aside class="quote" data-post="1" data-topic="3145"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="https://avatars.discourse.org/v2/letter/u/c0e974/40.png" width="20">Uduak:</img></div>
+<blockquote><p>Instagram is killing it for smartphone consumers targeted ad right now</p></blockquote></aside>
+<p>What would you say is the solution or answer for dumb/feature phone consumers? Is Twitter good for dumb/feature phones?</p>
+</div>
+<meta content="UserLikes:1" itemprop="interactionCount">
+<meta content="UserComments:1" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/ribads"><b itemprop="author">ribads</b></a>
+<time datetime="2015-11-11T07:25:33Z" itemprop="datePublished">
+             2015-11-11 07:25:33 UTC
+           </time>
+</span>
+<span itemprop="position">#4</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote" data-post="3" data-topic="3145"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="https://avatars.discourse.org/v2/letter/d/5e9695/40.png" width="20">davidsmith8900:</img></div>
+<blockquote>
+<p>In what sense? I'm kinda lost in this statement. Will the big guns push us out? Or will they steal our traffic? Like please clarify whenever you can.</p>
+<p>Uduak:</p>
+</blockquote></aside>
+<p>It's simple when the big guns comes barging in with their tens of thousand of dollars. Instagram would be forced to increase their CPI, and other ads measuring metrics. Same also happened with Facebook and Twitter...</p>
+</div>
+<meta content="UserLikes:2" itemprop="interactionCount">
+<meta content="UserComments:1" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/Uduak"><b itemprop="author">Uduak</b></a>
+<time datetime="2015-11-11T09:22:03Z" itemprop="datePublished">
+             2015-11-11 09:22:03 UTC
+           </time>
+</span>
+<span itemprop="position">#5</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p><a class="mention" href="/users/davidsmith8900">@davidsmith8900</a> I was trying not to talk too much about the Bulksms App because the post was about another App. Yes we have API for the app but we are yet to complete reliability simulations on it.</p>
+<p><a class="mention" href="/users/ribads">@ribads</a> is right that as more people hit instagram advertising, the cost will go up. I think the reason why its cheaper in places like other African countries is probably nobody is advertising on it.</p>
+<p>Also, instagram will give you the number of Nigerian users. Another great thing about Instagram is that it does not use IP address but it uses the user country profile. SO even though my family were not in Nigeria at the time, they were seeing the ad on their IG. This is really helpful for those of us that run ads in different languages targeting different countries. Also, it will let you know how many android and iphone users. So if your app is android, you can target only Android app users without wasting revenue on iphone users. You can find out more about it <a href="https://www.facebook.com/business/help/1443935649245791" rel="nofollow">here</a>.</p>
+<p>For feature phones, I find <a href="http://www.shareapps.net" rel="nofollow">www.shareapps.net</a> or similar platforms more useful.</p>
+<p><a class="mention" href="/users/davidsmith8900">@davidsmith8900</a> There is a lot of info to share but finding time is hard. I try to make a conscious effort to share once a quarter.</p>
+</div>
+<meta content="UserLikes:1" itemprop="interactionCount">
+<meta content="UserComments:1" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/phassan"><b itemprop="author">phassan</b></a>
+<time datetime="2015-11-11T09:38:18Z" itemprop="datePublished">
+             2015-11-11 09:38:18 UTC
+           </time>
+</span>
+<span itemprop="position">#6</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p><a class="mention" href="/users/uduak">@uduak</a> Thanks for this timely information. </p>
+<p>Personally, the number of services I have come to be aware of and benefit from through Instagram trumps any other digital service I know. A reinforcement of the saying that "A picture/video speaks louder than a thousand words".</p>
+<p>Already, MUAs, Wedding Photographers, Fashion Bloggers, Foodie services  etc are already raking in their profits by the thousands and millions, time the tech startup ecosys do same too.</p>
+</div>
+<meta content="UserLikes:0" itemprop="interactionCount">
+<meta content="UserComments:0" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/sugabelly"><b itemprop="author">sugabelly</b></a>
+<time datetime="2015-11-11T16:18:42Z" itemprop="datePublished">
+             2015-11-11 16:18:42 UTC
+           </time>
+</span>
+<span itemprop="position">#7</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>What is instagrams advertising link ? Twitter is ads.twitter or something</p>
+</div>
+<meta content="UserLikes:0" itemprop="interactionCount">
+<meta content="UserComments:2" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/davidsmith8900"><b itemprop="author">davidsmith8900</b></a>
+<time datetime="2015-11-11T18:17:23Z" itemprop="datePublished">
+             2015-11-11 18:17:23 UTC
+           </time>
+</span>
+<span itemprop="position">#8</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Okay, thank you for clarifying that for me. I now understand what you and <a class="mention" href="/users/uduak">@Uduak</a> are saying.</p>
+</div>
+<meta content="UserLikes:0" itemprop="interactionCount">
+<meta content="UserComments:0" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/davidsmith8900"><b itemprop="author">davidsmith8900</b></a>
+<time datetime="2015-11-11T18:26:01Z" itemprop="datePublished">
+             2015-11-11 18:26:01 UTC
+           </time>
+</span>
+<span itemprop="position">#9</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Thank you for all the information and links that you've shared. I've learnt enough already and Im looking forward to working with you and getting more insight about what goes in Nigeria (and Africa as well). Thanks as well for the clarification.</p>
+</div>
+<meta content="UserLikes:0" itemprop="interactionCount">
+<meta content="UserComments:0" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/ribads"><b itemprop="author">ribads</b></a>
+<time datetime="2015-11-11T18:38:30Z" itemprop="datePublished">
+             2015-11-11 18:38:30 UTC
+           </time>
+</span>
+<span itemprop="position">#10</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>You can create Instagram ads from Facebook power editor <a href="https://www.facebook.com/ads/manage/powereditor" rel="nofollow">https://www.facebook.com/ads/manage/powereditor</a>. <br>I do not think they run their ads program independently.</br></p>
+</div>
+<meta content="UserLikes:1" itemprop="interactionCount">
+<meta content="UserComments:0" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/ogunlanaolumide"><b itemprop="author">ogunlanaolumide</b></a>
+<time datetime="2015-11-11T20:38:06Z" itemprop="datePublished">
+             2015-11-11 20:38:06 UTC
+           </time>
+</span>
+<span itemprop="position">#11</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p><a class="mention" href="/users/uduak">@Uduak</a> <br>Cheap and Effective Marketing is King and Queen. One should not publicly share their results so easily like this....You just gave all your competition easy insight on how to compete with you (and probably outspend you) Especially with the exact data and screenshot...Nobody does that</br></p>
+<h1>ItsnoteverytimeYouImpressonRadar</h1>
+</div>
+<meta content="UserLikes:0" itemprop="interactionCount">
+<meta content="UserComments:3" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/Uduak"><b itemprop="author">Uduak</b></a>
+<time datetime="2015-11-11T21:25:34Z" itemprop="datePublished">
+             2015-11-11 21:25:34 UTC
+           </time>
+</span>
+<span itemprop="position">#12</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p><a class="mention" href="/users/ogunlanaolumide">@ogunlanaolumide</a> You sound like one of those guys in my high school who would report me to the maths teacher for allowing my mates to dub.<br>There is nothing like competition in B2C. You are screaming too hard.<br>Let me share something with you about your market potential.</br></br></p>
+<p>Below is my personal empirical market potential formula which i use for my projects;</p>
+<p>Annual potential market Size = [Cr * (Mc) * (1 + Gr/100)] + [Ic * Cr * (0.7) * (Mc)]<br>The first component is the percentage of the growth market you can capture, while the second component is how many of the existing maket you can wrestle from competitors.<br>Where;<br>Cr = Challenge ratio - (The ratio of your advertising budget to the total advertising budget of all your competition)<br>Mc = Actual market size<br>Gr = market growth rate in percentage points<br>Ic = Infrastructure coefficient (the number of possible infrastructure channels offered versus the potential available infrastructural support.<br>Eg. Payment channels - mastercard, visa, verve, paypal, google wallet, bank transfer, gtpay, Delivery channels - website, mobile site, android app, blackberry10 app, blackberry 6/7 app, windows app, iphone app, ipad app etc)<br>Cc = Competition coefficient<br>NOTE: I used global customer retention factor of 30% in arriving at the 0.7. There are studies which state that 30% of the market are very resistant to change. Those are the people who only buy flat screen Tvs because they can't find CRT any more (Quote by Simon Sinek.)<br>So there you see it a combination of several factors that affect your success.<br>It all depends on how you want to sleep. Don't ever be scared of sharing information. You learn more when you share.</br></br></br></br></br></br></br></br></br></br></br></p>
+<p><a class="mention" href="/users/sugabelly">@sugabelly</a> <a href="https://business.instagram.com/advertising/" rel="nofollow">https://business.instagram.com/advertising/</a><br>You would have to be very patient in going through your first instagram ad setup. After the first two, you would find it easier.</br></p>
+</div>
+<meta content="UserLikes:3" itemprop="interactionCount">
+<meta content="UserComments:4" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/Jimi"><b itemprop="author">Jimi</b></a>
+<time datetime="2015-11-11T21:28:20Z" itemprop="datePublished">
+             2015-11-11 21:28:20 UTC
+           </time>
+</span>
+<span itemprop="position">#13</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Nice analysis. I think you can get more by working on the video. But I doubt the ad led to the downloads because there is no link at the end of the video. What I did was to like it and I moved on.  For most people promoting apps on Instagram, once you click on the image, it takes you straight to the app store or is there another ad that you ran? But you promoted a video, so it could have been Google Play traffic  because your seo seems quite okay. </p>
+<p>But great work with the advertising. </p>
+<p>For users outside Nigeria, do they pay via PayPal? <br>Are you using a merchant account for this? I'm quite interested in this <img alt=":smile:" class="emoji" src="/images/emoji/apple/smile.png?v=0" title=":smile:"/></br></p>
+</div>
+<meta content="UserLikes:0" itemprop="interactionCount">
+<meta content="UserComments:1" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/Jimi"><b itemprop="author">Jimi</b></a>
+<time datetime="2015-11-11T21:31:54Z" itemprop="datePublished">
+             2015-11-11 21:31:54 UTC
+           </time>
+</span>
+<span itemprop="position">#14</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Any of his competitor who just heard about Instagram ads is not a competitor.</p>
+</div>
+<meta content="UserLikes:0" itemprop="interactionCount">
+<meta content="UserComments:1" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/ogunlanaolumide"><b itemprop="author">ogunlanaolumide</b></a>
+<time datetime="2015-11-11T21:32:06Z" itemprop="datePublished">
+             2015-11-11 21:32:06 UTC
+           </time>
+</span>
+<span itemprop="position">#15</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p><a class="mention" href="/users/uduak">@Uduak</a><br>You know nothing JohnSnow....Trust me...You know absolutely nothing...<br>You have a formula for success with so many variables....(lmfaoooo...U must be Einstein)<br>On a more serious note real life is way way way far from this....<br>Real marketing insight is Golden...Keep impressing, while others keep monetizing..</br></br></br></br></p>
+<p>Biko: What projects are you doing again and what is the bull eyes strategy for them..am sure we want to know( or at least I want to know)</p>
+</div>
+<meta content="UserLikes:0" itemprop="interactionCount">
+<meta content="UserComments:0" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/ogunlanaolumide"><b itemprop="author">ogunlanaolumide</b></a>
+<time datetime="2015-11-11T21:35:19Z" itemprop="datePublished">
+             2015-11-11 21:35:19 UTC
+           </time>
+</span>
+<span itemprop="position">#16</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p><a class="mention" href="/users/jimi">@Jimi</a><br>Really? I dont even get what you mean by this. Instagram ads launched barely 2 months ago in Nigeria.. Whats your point ? You think everyone automatically has tried them and knows about the interesting results.<br>Facebook ad is huge..new products roll out almost weekly.<br>Radar ehnn</br></br></br></p>
+</div>
+<meta content="UserLikes:0" itemprop="interactionCount">
+<meta content="UserComments:0" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/Uduak"><b itemprop="author">Uduak</b></a>
+<time datetime="2015-11-11T21:36:18Z" itemprop="datePublished">
+             2015-11-11 21:36:18 UTC
+           </time>
+</span>
+<span itemprop="position">#17</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p><a class="mention" href="/users/jimi">@Jimi</a> viewing the link dont really give you what you see when its circulating. It usually includes a "download" on the botttom right under the video. <br>Actually, during my research and even in full mode, we usually include a link from google analytics to track my effectiveness.<br>Outside Nigeria, we have a different pack running. We have Mastercard/Visa that don't go through interswitch and Unified Payments. So we use that and Paypal.</br></br></p>
+<p><a class="mention" href="/users/ogunlanaolumide">@ogunlanaolumide</a> Oya collect my shirt nah. No vex.<br>Also, because it was open to you two months ago don't mean other people have not been sitting on it. You need to worry less.</br></p>
+</div>
+<meta content="UserLikes:0" itemprop="interactionCount">
+<meta content="UserComments:0" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/ogunlanaolumide"><b itemprop="author">ogunlanaolumide</b></a>
+<time datetime="2015-11-11T21:44:40Z" itemprop="datePublished">
+             2015-11-11 21:44:40 UTC
+           </time>
+</span>
+<span itemprop="position">#18</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote" data-post="12" data-topic="3145"><div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="https://avatars.discourse.org/v2/letter/u/c0e974/40.png" width="20">Uduak:</img></div>
+<blockquote><p>Don't ever be scared of sharing information. You learn more when you share.</p></blockquote></aside>
+<p>Lmao....You might as well share your customer database while at it..<br>Its obvious you don't know the consequence of what you have done. Allow me explain.</br></p>
+<p>Whenever there is a new ad product, if properly executed, the results are great, until it becomes crowded with more advertisers. The more the advertisers, the higher the bidding, the less effective it is for you. At a point only the giants would be able to afford it.</p>
+<p>Even without your post I am not saying this would not eventually happen, however, putting up your screenshot on radar (for insights clients pay for) is only accelerating the process.</p>
+<p>You might as well carry a mic and scream : "Guys this is where am getting all my downloads (customers) from oo..Join me in competing for users attention by bidding higher than me..I love to share on radar cause it makes me look sexy"</p>
+</div>
+<meta content="UserLikes:2" itemprop="interactionCount">
+<meta content="UserComments:3" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/davidsmith8900"><b itemprop="author">davidsmith8900</b></a>
+<time datetime="2015-11-11T22:01:33Z" itemprop="datePublished">
+             2015-11-11 22:01:33 UTC
+           </time>
+</span>
+<span itemprop="position">#19</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Thank you for more insight and data. I personally appreciate it.</p>
+</div>
+<meta content="UserLikes:1" itemprop="interactionCount">
+<meta content="UserComments:0" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/Article">
+<div class="creator">
+<span>
+<a href="/users/MrASulaiman"><b itemprop="author">MrASulaiman</b></a>
+<time datetime="2015-11-12T00:44:13Z" itemprop="datePublished">
+             2015-11-12 00:44:13 UTC
+           </time>
+</span>
+<span itemprop="position">#20</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Work hard in silence, let your success be your noise. AGREED!</p>
+<p>Calm down <a class="mention" href="/users/ogunlanaolumide">@ogunlanaolumide</a>; it might interest you to know that sharing business data can also be an advantage.<br>Coopetition Leads to Crowd-Sourced Intelligence.</br></p>
+<p>“When companies that would normally be at each other’s throats, suddenly start cooperating, they like to <a href="http://techcrunch.com/2014/10/17/the-spirit-of-coopetition-is-alive-and-well-in-the-cloud/" rel="nofollow">call it coopetition</a>,” says TechCrunch. “You could call it being frenemies, but whatever you call it, these companies are coming together in seemingly greater numbers —and the customers are the beneficiaries.”  </p>
+<p>Consumers and customers don’t really care about competition; they just want products to work well together and they want to benefit from increased transparency into why one business can be trusted more than another. Since even companies who wish to compete with each other can’t get access to all the data they need on their own to meet these demands, they are increasingly looking for ways to connect through coopetition.   </p>
+<p>Investing in the connections among team members both increases productivity and reduces risks. In this case Radar. If only you knew the loop-holes other folks could divulge to <a class="mention" href="/users/uduak">@Uduak</a> which he could implement and increase his conversion, insights which he could not not otherwise access, which will in turn put his product one-step ahead?</p>
+<p>The sharing economy is upon us and is growing. Take the back-seat or drive angry. #PunIntended</p>
+</div>
+<meta content="UserLikes:0" itemprop="interactionCount">
+<meta content="UserComments:0" itemprop="interactionCount">
+<hr>
+</hr></meta></meta></div>
+<div itemscope="" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+<span itemprop="url"><b><a href="/t/instagram-is-killing-advertising/3145?page=2" itemprop="name" rel="next">next page →</a></b></span>
+</div>
+<!-- :preload-content -->
+<footer>
+<nav itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/">Home</a>
+<a href="/categories">Categories</a>
+<a href="/guidelines">FAQ/Guidelines</a>
+<a href="/tos">Terms of Service</a>
+<a href="/privacy">Privacy Policy</a>
+</nav>
+</footer>
+</hr></div>
+<footer id="noscript-footer">
+<p>Powered by <a href="http://www.discourse.org">Discourse</a>, best viewed with JavaScript enabled</p>
+</footer>
+</noscript>
+<!--[if IE 9]><script type="text/javascript">ie = "new";</script><![endif]-->
+<section id="main">
+</section>
+<div id="offscreen-content">
+</div>
+<form action="/login" id="hidden-login-form" method="post" style="display: none;">
+<input id="signin_username" name="username" type="text">
+<input id="signin_password" name="password" type="password">
+<input name="redirect" type="hidden">
+<input id="signin-button" type="submit" value="Log In">
+</input></input></input></input></form>
+<script>
+        PreloadStore.store("site",{"default_archetype":"regular","notification_types":{"mentioned":1,"replied":2,"quoted":3,"edited":4,"liked":5,"private_message":6,"invited_to_private_message":7,"invitee_accepted":8,"posted":9,"moved_post":10,"linked":11,"granted_badge":12,"invited_to_topic":13,"custom":14},"post_types":{"regular":1,"moderator_action":2,"small_action":3,"whisper":4},"groups":[{"id":1,"name":"admins"},{"id":42,"name":"AMA"},{"id":0,"name":"everyone"},{"id":2,"name":"moderators"},{"id":3,"name":"staff"},{"id":41,"name":"TechWomen"},{"id":10,"name":"trust_level_0"},{"id":11,"name":"trust_level_1"},{"id":12,"name":"trust_level_2"},{"id":13,"name":"trust_level_3"},{"id":14,"name":"trust_level_4"},{"id":43,"name":"verified"}],"filters":["latest","unread","new","read","posted","bookmarks"],"periods":["all","yearly","quarterly","monthly","weekly","daily"],"top_menu_items":["latest","unread","new","read","posted","bookmarks","category","categories","top"],"anonymous_top_menu_items":["latest","top","categories","category","categories","top"],"uncategorized_category_id":1,"is_readonly":false,"disabled_plugins":[],"user_field_max_length":2048,"suppressed_from_homepage_category_ids":[],"post_action_types":[{"name_key":"bookmark","name":"Bookmark","description":"Bookmark this post","long_form":"bookmarked this post","is_flag":false,"icon":null,"id":1,"is_custom_flag":false},{"name_key":"like","name":"Like","description":"Like this post","long_form":"liked this","is_flag":false,"icon":"heart","id":2,"is_custom_flag":false},{"name_key":"off_topic","name":"Off-Topic","description":"This post is not relevant to the current discussion as defined by the title and first post, and should probably be moved elsewhere.","long_form":"flagged this as off-topic","is_flag":true,"icon":null,"id":3,"is_custom_flag":false},{"name_key":"inappropriate","name":"Inappropriate","description":"This post contains content that a reasonable person would consider offensive, abusive, or a violation of <a href=\"/guidelines\">our community guidelines<\/a>.","long_form":"flagged this as inappropriate","is_flag":true,"icon":null,"id":4,"is_custom_flag":false},{"name_key":"vote","name":"Vote","description":"Vote for this post","long_form":"voted for this post","is_flag":false,"icon":null,"id":5,"is_custom_flag":false},{"name_key":"spam","name":"Spam","description":"This post is an advertisement. It is not useful or relevant to the current topic, but promotional in nature.","long_form":"flagged this as spam","is_flag":true,"icon":null,"id":8,"is_custom_flag":false},{"name_key":"notify_user","name":"Message @{{username}}","description":"This post contains something I want to talk to this person directly and privately about. Does not cast a flag.","long_form":"messaged user","is_flag":true,"icon":null,"id":6,"is_custom_flag":true},{"name_key":"notify_moderators","name":"Something Else","description":"This post requires moderator attention for another reason not listed above.","long_form":"flagged this for moderator attention","is_flag":true,"icon":null,"id":7,"is_custom_flag":true}],"topic_flag_types":[{"name_key":"inappropriate","name":"Inappropriate","description":"This topic contains content that a reasonable person would consider offensive, abusive, or a violation of <a href=\"/guidelines\">our community guidelines<\/a>.","long_form":"flagged this as inappropriate","is_flag":true,"icon":null,"id":4,"is_custom_flag":false},{"name_key":"spam","name":"Spam","description":"This topic is an advertisement. It is not useful or relevant to this site, but promotional in nature.","long_form":"flagged this as spam","is_flag":true,"icon":null,"id":8,"is_custom_flag":false},{"name_key":"notify_moderators","name":"Something Else","description":"This topic requires general moderator attention based on the <a href=\"/guidelines\">guidelines<\/a>, <a href=\"/tos\">TOS<\/a>, or for another reason not listed above.","long_form":"flagged this for moderator attention","is_flag":true,"icon":null,"id":7,"is_custom_flag":true}],"categories":[{"id":1,"name":"Everything","color":"AB9364","text_color":"FFFFFF","slug":"everything","topic_count":950,"post_count":8196,"position":0,"description":"Topics that don't need a category, or don't fit into any other existing category.","description_text":"","topic_url":"/t//","read_restricted":false,"permission":null,"notification_level":null,"logo_url":"","background_url":"","topic_template":null,"has_children":false},{"id":3,"name":"Meta","color":"808281","text_color":"FFFFFF","slug":"meta","topic_count":17,"post_count":128,"position":1,"description":"This is a discussion about Radar, its organization, how it works, and how we can improve it. Don't hold back.","description_text":"This is a discussion about Radar, its organization, how it works, and how we can improve it. Don't hold back.","topic_url":"/t/about-the-meta-category/2","read_restricted":false,"permission":null,"notification_level":null,"logo_url":null,"background_url":null,"topic_template":null,"has_children":false},{"id":5,"name":"Products","color":"F1592A","text_color":"FFFFFF","slug":"products","topic_count":173,"post_count":2055,"position":4,"description":"This is the category for products. \"Products\" include startups, apps, websites, services, etc. This thread is intended to be used discuss, rate and give feedback on new products.","description_text":"This is the category for products. \"Products\" include startups, apps, websites, services, etc. This thread is intended to be used discuss, rate and give feedback on new products.","topic_url":"/t/read-before-posting-please/39","read_restricted":false,"permission":null,"notification_level":null,"logo_url":null,"background_url":null,"topic_template":null,"has_children":false},{"id":6,"name":"Jobs","color":"ED207B","text_color":"FFFFFF","slug":"jobs","topic_count":53,"post_count":209,"position":5,"description":"Use Radar job's board to post available technology and internet openings.","description_text":"Use Radar job's board to post available technology and internet openings.","topic_url":"/t/read-before-posting-please/40","read_restricted":false,"permission":null,"notification_level":null,"logo_url":"","background_url":"","topic_template":null,"has_children":false},{"id":7,"name":"Events","color":"25AAE2","text_color":"FFFFFF","slug":"events","topic_count":51,"post_count":247,"position":6,"description":"People have begun to post events to Radar. So we've created a separate category for that. The idea is to create an up-to-date and community-generated calendar of technology, startup and internet events/meetups across Africa, so we can always know what's going on.","description_text":"People have begun to post events to Radar. So we've created a separate category for that. The idea is to create an up-to-date and community-generated calendar of technology, startup and internet events/meetups across Africa, so we can always know what's going on.","topic_url":"/t/events-category-calendar/455","read_restricted":false,"permission":null,"notification_level":null,"logo_url":null,"background_url":null,"topic_template":null,"has_children":false},{"id":8,"name":"AMA","color":"F7941D","text_color":"FFFFFF","slug":"ama","topic_count":13,"post_count":495,"position":7,"description":"This is where to find all previous AMA (Ask Me Anything) sessions that have happened on Radar.","description_text":"This is where to find all previous AMA (Ask Me Anything) sessions that have happened on Radar.","topic_url":"/t/about-the-ama-category/762","read_restricted":false,"permission":null,"notification_level":null,"logo_url":null,"background_url":null,"topic_template":null,"has_children":false},{"id":10,"name":"TechCabal","color":"231F20","text_color":"FFFFFF","slug":"techcabal","topic_count":1,"post_count":5,"position":9,"description":"This category is for posts from TechCabal. They will show up themselves, so no need to help publish them.","description_text":"This category is for posts from TechCabal. They will show up themselves, so no need to help publish them.","topic_url":"/t/about-the-techcabal-stories/1486","read_restricted":false,"permission":null,"notification_level":null,"logo_url":"","background_url":"","topic_template":"","has_children":false}],"trust_levels":[{"id":0,"name":"new user"},{"id":1,"name":"basic user"},{"id":2,"name":"member"},{"id":3,"name":"regular"},{"id":4,"name":"leader"}],"archetypes":[{"id":"regular","name":"Regular Topic","options":[]},{"id":"banner","name":"Banner Topic","options":[]}],"user_fields":[]});
+        PreloadStore.store("siteSettings",{"title":"Radar from TechCabal","contact_email":"bankole@techcabal.com","contact_url":"http://techcabal.com/contact","logo_url":"/uploads/default/10/0799978c102c9934.png","logo_small_url":"/uploads/default/11/155efd1098280b93.png","mobile_logo_url":"/uploads/default/10/0799978c102c9934.png","favicon_url":"/uploads/default/11/155efd1098280b93.png","allow_user_locale":false,"suggested_topics":5,"track_external_right_clicks":true,"ga_universal_tracking_code":"UA-39740518-5","ga_universal_domain_name":"auto","ga_tracking_code":"","ga_domain_name":"","top_menu":"latest|new|unread|top|categories","post_menu":"like-count|like|share|flag|edit|bookmark|delete|admin|reply","post_menu_hidden_items":"bookmark|edit|delete|admin","share_links":"twitter|facebook|google+|email","category_colors":"BF1E2E|F1592A|F7941D|9EB83B|3AB54A|12A89D|25AAE2|0E76BD|652D90|92278F|ED207B|8C6238|231F20|808281|B3B5B4|283890","category_style":"bullet","enable_mobile_theme":true,"relative_date_duration":30,"category_featured_topics":3,"fixed_category_positions":false,"fixed_category_positions_on_create":false,"show_subcategory_list":false,"enable_badges":true,"enable_whispers":false,"invite_only":false,"login_required":false,"must_approve_users":false,"enable_local_logins":true,"allow_new_registrations":true,"enable_signup_cta":true,"enable_google_oauth2_logins":false,"enable_yahoo_logins":false,"enable_twitter_logins":true,"enable_facebook_logins":true,"enable_github_logins":false,"enable_sso":false,"sso_overrides_avatar":false,"min_username_length":3,"max_username_length":20,"min_password_length":8,"logout_redirect":"","full_name_required":false,"enable_names":true,"invites_per_page":40,"delete_user_max_post_age":60,"delete_all_posts_max":15,"show_email_on_profile":false,"enable_user_directory":true,"allow_anonymous_posting":false,"anonymous_posting_min_trust_level":1,"hide_user_profiles_from_public":false,"min_post_length":10,"min_first_post_length":20,"min_private_message_post_length":10,"max_post_length":32000,"min_topic_title_length":10,"max_topic_title_length":255,"min_private_message_title_length":2,"allow_uncategorized_topics":true,"min_title_similar_length":10,"min_body_similar_length":15,"enable_private_messages":true,"edit_history_visible_to_public":true,"delete_removed_posts_after":24,"traditional_markdown_linebreaks":false,"allow_html_tables":false,"suppress_reply_directly_below":true,"suppress_reply_directly_above":true,"max_reply_history":1,"experimental_reply_expansion":false,"newuser_max_images":1,"newuser_max_attachments":0,"display_name_on_posts":false,"show_time_gap_days":7,"short_progress_text_threshold":10000,"default_code_lang":"auto","autohighlight_all_code":false,"highlighted_languages":"apache|bash|cs|cpp|css|coffeescript|diff|xml|http|ini|json|java|javascript|makefile|markdown|nginx|objectivec|ruby|perl|php|python|sql|handlebars","censored_words":"","enable_emoji":true,"emoji_set":"apple","email_time_window_mins":10,"disable_digest_emails":false,"email_in":false,"disable_emails":false,"authorized_extensions":"jpg|jpeg|png|gif","max_image_width":690,"max_image_height":500,"prevent_anons_from_downloading_files":false,"enable_s3_uploads":false,"allow_profile_backgrounds":true,"allow_uploaded_avatars":true,"allow_animated_avatars":false,"default_avatars":"","external_system_avatars_enabled":true,"external_system_avatars_url":"https://avatars.discourse.org/v2/letter/{first_letter}/{color}/{size}.png","tl1_requires_read_posts":30,"tl3_links_no_follow":false,"use_admin_ip_whitelist":false,"enable_long_polling":true,"long_polling_base_url":"/","background_polling_interval":60000,"polling_interval":3000,"anon_polling_interval":15000,"flush_timings_secs":20,"verbose_localization":false,"max_new_topics":500,"tos_url":"","privacy_policy_url":"","faq_url":"","maximum_backups":7,"version_checks":true,"suppress_uncategorized_badge":true,"min_search_term_length":3,"topic_views_heat_low":1000,"topic_views_heat_medium":2000,"topic_views_heat_high":5000,"topic_post_like_heat_low":0.5,"topic_post_like_heat_medium":1.0,"topic_post_like_heat_high":2.0,"history_hours_low":12,"history_hours_medium":24,"history_hours_high":48,"cold_age_days_low":14,"cold_age_days_medium":90,"cold_age_days_high":180,"global_notice":"","show_create_topics_notice":true,"automatically_unpin_topics":true,"poll_enabled":true,"poll_maximum_options":20,"available_locales":"ar|bs_BA|cs|da|de|en|es|fa_IR|fi|fr|he|id|it|ja|ko|nb_NO|nl|pl_PL|pt|pt_BR|ro|ru|sq|sv|te|tr_TR|uk|zh_CN|zh_TW"});
+        PreloadStore.store("customHTML",{"top":"","footer":""});
+        PreloadStore.store("banner",{});
+        PreloadStore.store("customEmoji",[]);
+        PreloadStore.store("topic_3145",{"post_stream":{"posts":[{"id":14303,"name":"Uduak Ark Asuquo","username":"Uduak","avatar_template":"https://avatars.discourse.org/v2/letter/u/c0e974/{size}.png","created_at":"2015-11-11T01:08:14.045Z","cooked":"<p>One of the best phrases I have heard in a movie is from Morgan Freeman in the Box Office hit Lucy. Yes, box office hit because they went in with 40mil and came out with 450mil. So Lucy was a hit.<br>The  part when Morgan said “Share it” (knowledge).<\/p>\n\n<p>INSTAGRAM<br>I have been working on advertising cost and I am very hard on the money because I will never have enough of it. After a lot of work, I will say Instagram is where startups need to go before the Big guns come pouring in.<br>Below is a screen shot from the test instagram ad i did targeting Nigeria only.<\/p>\n\n<p><div class=\"lightbox-wrapper\"><a data-download-href=\"//radar.techcabal.com/uploads/default/6b1b57e979ed354b843dbda55bce40e192f55b81\" href=\"//radar.techcabal.com/uploads/default/original/2X/6/6b1b57e979ed354b843dbda55bce40e192f55b81.PNG\" class=\"lightbox\" title=\"instagram 1.PNG\"><img src=\"//radar.techcabal.com/uploads/default/optimized/2X/6/6b1b57e979ed354b843dbda55bce40e192f55b81_1_690x56.PNG\" width=\"690\" height=\"56\"><div class=\"meta\">\n<span class=\"filename\">instagram 1.PNG<\/span><span class=\"informations\">998x82 13.3 KB<\/span><span class=\"expand\"><\/span>\n<\/div><\/a><\/div><\/p>\n\n<p>It was costing $0.003 per result. Even <a href=\"http://www.shareapps.net\" rel=\"nofollow\">www.shareapps.net<\/a> which I squeezed cost NGN1.50k per view<br>$0.003 is 60kobo. <br>I used a video <a href=\"https://instagram.com/p/94DU5jwnGu/\" rel=\"nofollow\">https://instagram.com/p/94DU5jwnGu/<\/a> for the ad and you can go see the actual number of people who actually click Like on the video.<br>Anybody will tell you that the hardest thing to sell is a recharge website or app because everybody already has a preferred source.<br>Over the period we ran this ad at $5/day, we tracked 90downloads/day of which averagely 25 made a purchase.<br>Considering that instagram is for only smartphone users, I think every startup should go there.<br>This is my Nigerian specific ad target. I got the similar results for North America and Europe while The rest of African Countries Targeted ad was $0.002/view.(40kobo)<\/p>\n\n<p>TWITTER<br>Twitter always hurts because it is expensive in every direction. <br>Below is a screenshot from some tests. As you can see, I targeting different people sets.<br>Gossip handles – That was an ad targeting followers of linda, bellanaija etc.<br>Newsmedia handles target - nigerianewsdesk, punchng vanguard etc<br>Ecommerce handles tagrte was for followers of jumia, konga etc.<br>I also did one for the music industry (followers of wizkid, Don jazzy etc.) and the telcos (<span class=\"mention\">@mtnng<\/span>, <span class=\"mention\">@airtelnigeria<\/span> <span class=\"mention\">@globacomlimited<\/span> and <span class=\"mention\">@etisalat_9ja<\/span>)<\/p>\n\n<p><div class=\"lightbox-wrapper\"><a data-download-href=\"//radar.techcabal.com/uploads/default/0942b369f472f45078ee6d36b84320d9b6109893\" href=\"//radar.techcabal.com/uploads/default/original/2X/0/0942b369f472f45078ee6d36b84320d9b6109893.png\" class=\"lightbox\" title=\"twitter1.png\"><img src=\"//radar.techcabal.com/uploads/default/optimized/2X/0/0942b369f472f45078ee6d36b84320d9b6109893_1_690x356.png\" width=\"690\" height=\"356\"><div class=\"meta\">\n<span class=\"filename\">twitter1.png<\/span><span class=\"informations\">1001x517 101 KB<\/span><span class=\"expand\"><\/span>\n<\/div><\/a><\/div><\/p>\n\n<p>The primary reason I add this to my R&amp;D work at Coremobile is to drive advertising because I am typically the empirical data guy.<br>On twitter, I have given up and we now use the Handshake Algorithm which has been delivering 200followers everyday consistently at NGN40,000/month. I wrote about it a while back.<\/p>\n\n<p>I think its important for companies (Big or Small) to get the best out of every money they spend. Instagram is killing it for smartphone consumers targeted ad right now. 60kobo per ad view is greatness.<\/p>","post_number":1,"post_type":1,"updated_at":"2015-11-11T09:26:34.084Z","reply_count":1,"reply_to_post_number":null,"quote_count":0,"avg_time":70,"incoming_link_count":72,"reads":136,"score":710.7,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"Uduak Ark Asuquo","primary_group_name":null,"version":2,"can_edit":false,"can_delete":false,"can_recover":false,"link_counts":[{"url":"https://instagram.com/p/94DU5jwnGu/","internal":false,"reflection":false,"title":"Instagram","clicks":41},{"url":"http://www.shareapps.net","internal":false,"reflection":false,"title":"Share Apps | Mobile Apps Promotion & Marketing","clicks":11}],"read":true,"user_title":null,"actions_summary":[{"id":2,"count":19}],"moderator":false,"admin":false,"staff":false,"user_id":479,"hidden":false,"hidden_reason_id":null,"trust_level":2,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false},{"id":14305,"name":"David Smith","username":"davidsmith8900","avatar_template":"https://avatars.discourse.org/v2/letter/d/5e9695/{size}.png","created_at":"2015-11-11T01:56:31.466Z","cooked":"<p>This post right here deserves a superlike or two likes. Thanks for the insight. It is threads/topics like this that we need. I have more questions to ask you, but I haven't fully read your post. I just skimmed through it. Also by the way, weren't you the same person who had that bulk sms app? You never answered my questions. Whats up?<\/p>","post_number":2,"post_type":1,"updated_at":"2015-11-11T01:56:31.466Z","reply_count":2,"reply_to_post_number":null,"quote_count":0,"avg_time":27,"incoming_link_count":0,"reads":123,"score":35.95,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"David Smith","primary_group_name":null,"version":1,"can_edit":false,"can_delete":false,"can_recover":false,"read":true,"user_title":null,"actions_summary":[],"moderator":false,"admin":false,"staff":false,"user_id":275,"hidden":false,"hidden_reason_id":null,"trust_level":2,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false},{"id":14307,"name":"David Smith","username":"davidsmith8900","avatar_template":"https://avatars.discourse.org/v2/letter/d/5e9695/{size}.png","created_at":"2015-11-11T02:26:51.765Z","cooked":"<aside class=\"quote\" data-post=\"1\" data-topic=\"3145\"><div class=\"title\">\n<div class=\"quote-controls\"><\/div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://avatars.discourse.org/v2/letter/u/c0e974/40.png\" class=\"avatar\">Uduak:<\/div>\n<blockquote><p>I will say Instagram is where startups need to go before the Big guns come pouring in.<\/p><\/blockquote><\/aside>\n\n<p>In what sense? I'm kinda lost in this statement. Will the big guns push us out? Or will they steal our traffic? Like please clarify whenever you can.<\/p>\n\n<aside class=\"quote\" data-post=\"1\" data-topic=\"3145\"><div class=\"title\">\n<div class=\"quote-controls\"><\/div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://avatars.discourse.org/v2/letter/u/c0e974/40.png\" class=\"avatar\">Uduak:<\/div>\n<blockquote><p>Considering that instagram is for only smartphone users<\/p><\/blockquote><\/aside>\n\n<p>To be honest, I feel like this statement is an eye opener for me, because I never once realized that one can't use Instagram on dumb/feature phones. <\/p>\n\n<aside class=\"quote\" data-post=\"1\" data-topic=\"3145\"><div class=\"title\">\n<div class=\"quote-controls\"><\/div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://avatars.discourse.org/v2/letter/u/c0e974/40.png\" class=\"avatar\">Uduak:<\/div>\n<blockquote><p>This is my Nigerian specific ad target. I got the similar results for North America and Europe while The rest of African Countries Targeted ad was $0.002/view.(40kobo)<\/p><\/blockquote><\/aside>\n\n<p>Before or after you tried targeting Nigeria specifically, did Instagram by any chance give you an estimate of how many users in Nigeria (or Africa in general) use their service? Any statistics? If so, do you mind sharing?<\/p>\n\n<aside class=\"quote\" data-post=\"1\" data-topic=\"3145\"><div class=\"title\">\n<div class=\"quote-controls\"><\/div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://avatars.discourse.org/v2/letter/u/c0e974/40.png\" class=\"avatar\">Uduak:<\/div>\n<blockquote><p>I am typically the empirical data guy<\/p><\/blockquote><\/aside>\n\n<p>Very nice. Do you by any chance have any more important data insights (similar to this) that you will like to share? As in how many Nigerians actually use the internet daily? How many Nigerians actually use dumb/feature or smart phones? Also how many Nigerians still send/receive sms compared to Whatsapp?<\/p>\n\n<aside class=\"quote\" data-post=\"1\" data-topic=\"3145\"><div class=\"title\">\n<div class=\"quote-controls\"><\/div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://avatars.discourse.org/v2/letter/u/c0e974/40.png\" class=\"avatar\">Uduak:<\/div>\n<blockquote><p>I wrote about it a while back.<\/p><\/blockquote><\/aside>\n\n<p>I was looking for this article on Radar. Is it here or somewhere else?<\/p>\n\n<aside class=\"quote\" data-post=\"1\" data-topic=\"3145\"><div class=\"title\">\n<div class=\"quote-controls\"><\/div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://avatars.discourse.org/v2/letter/u/c0e974/40.png\" class=\"avatar\">Uduak:<\/div>\n<blockquote><p>Instagram is killing it for smartphone consumers targeted ad right now<\/p><\/blockquote><\/aside>\n\n<p>What would you say is the solution or answer for dumb/feature phone consumers? Is Twitter good for dumb/feature phones?<\/p>","post_number":3,"post_type":1,"updated_at":"2015-11-11T02:31:52.483Z","reply_count":1,"reply_to_post_number":null,"quote_count":1,"avg_time":27,"incoming_link_count":0,"reads":122,"score":45.75,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"David Smith","primary_group_name":null,"version":2,"can_edit":false,"can_delete":false,"can_recover":false,"read":true,"user_title":null,"actions_summary":[{"id":2,"count":1}],"moderator":false,"admin":false,"staff":false,"user_id":275,"hidden":false,"hidden_reason_id":null,"trust_level":2,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false},{"id":14314,"name":"Yinusa Kehinde","username":"ribads","avatar_template":"/user_avatar/radar.techcabal.com/ribads/{size}/1701_1.png","created_at":"2015-11-11T07:25:33.494Z","cooked":"<aside class=\"quote\" data-post=\"3\" data-topic=\"3145\"><div class=\"title\">\n<div class=\"quote-controls\"><\/div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://avatars.discourse.org/v2/letter/d/5e9695/40.png\" class=\"avatar\">davidsmith8900:<\/div>\n<blockquote>\n<p>In what sense? I'm kinda lost in this statement. Will the big guns push us out? Or will they steal our traffic? Like please clarify whenever you can.<\/p>\n<p>Uduak:<\/p>\n<\/blockquote><\/aside>\n\n<p>It's simple when the big guns comes barging in with their tens of thousand of dollars. Instagram would be forced to increase their CPI, and other ads measuring metrics. Same also happened with Facebook and Twitter...<\/p>","post_number":4,"post_type":1,"updated_at":"2015-11-11T07:25:33.494Z","reply_count":1,"reply_to_post_number":3,"quote_count":1,"avg_time":17,"incoming_link_count":0,"reads":109,"score":87.65,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"Yinusa Kehinde","primary_group_name":null,"version":1,"can_edit":false,"can_delete":false,"can_recover":false,"read":true,"user_title":null,"actions_summary":[{"id":2,"count":2}],"moderator":false,"admin":false,"staff":false,"user_id":240,"hidden":false,"hidden_reason_id":null,"trust_level":2,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false},{"id":14321,"name":"Uduak Ark Asuquo","username":"Uduak","avatar_template":"https://avatars.discourse.org/v2/letter/u/c0e974/{size}.png","created_at":"2015-11-11T09:22:03.526Z","cooked":"<p><a class=\"mention\" href=\"/users/davidsmith8900\">@davidsmith8900<\/a> I was trying not to talk too much about the Bulksms App because the post was about another App. Yes we have API for the app but we are yet to complete reliability simulations on it.<\/p>\n\n<p><a class=\"mention\" href=\"/users/ribads\">@ribads<\/a> is right that as more people hit instagram advertising, the cost will go up. I think the reason why its cheaper in places like other African countries is probably nobody is advertising on it.<\/p>\n\n<p>Also, instagram will give you the number of Nigerian users. Another great thing about Instagram is that it does not use IP address but it uses the user country profile. SO even though my family were not in Nigeria at the time, they were seeing the ad on their IG. This is really helpful for those of us that run ads in different languages targeting different countries. Also, it will let you know how many android and iphone users. So if your app is android, you can target only Android app users without wasting revenue on iphone users. You can find out more about it <a href=\"https://www.facebook.com/business/help/1443935649245791\" rel=\"nofollow\">here<\/a>.<\/p>\n\n<p>For feature phones, I find <a href=\"http://www.shareapps.net\" rel=\"nofollow\">www.shareapps.net<\/a> or similar platforms more useful.<\/p>\n\n<p><a class=\"mention\" href=\"/users/davidsmith8900\">@davidsmith8900<\/a> There is a lot of info to share but finding time is hard. I try to make a conscious effort to share once a quarter.<\/p>","post_number":5,"post_type":1,"updated_at":"2015-11-11T09:25:53.256Z","reply_count":1,"reply_to_post_number":2,"quote_count":0,"avg_time":24,"incoming_link_count":1,"reads":102,"score":46.6,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"Uduak Ark Asuquo","primary_group_name":null,"version":1,"can_edit":false,"can_delete":false,"can_recover":false,"link_counts":[{"url":"http://www.shareapps.net","internal":false,"reflection":false,"title":"Share Apps | Mobile Apps Promotion & Marketing","clicks":7},{"url":"https://www.facebook.com/business/help/1443935649245791","internal":false,"reflection":false,"title":"How can I create an Instagram ad in Power Editor? | Facebook Help Center | Facebook","clicks":4}],"read":true,"user_title":null,"reply_to_user":{"username":"davidsmith8900","avatar_template":"https://avatars.discourse.org/v2/letter/d/5e9695/{size}.png"},"actions_summary":[{"id":2,"count":1}],"moderator":false,"admin":false,"staff":false,"user_id":479,"hidden":false,"hidden_reason_id":null,"trust_level":2,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false},{"id":14325,"name":"Temiloluwa Hassan","username":"phassan","avatar_template":"https://avatars.discourse.org/v2/letter/p/3bc359/{size}.png","created_at":"2015-11-11T09:38:18.587Z","cooked":"<p><a class=\"mention\" href=\"/users/uduak\">@uduak<\/a> Thanks for this timely information. <\/p>\n\n<p>Personally, the number of services I have come to be aware of and benefit from through Instagram trumps any other digital service I know. A reinforcement of the saying that \"A picture/video speaks louder than a thousand words\".<\/p>\n\n<p>Already, MUAs, Wedding Photographers, Fashion Bloggers, Foodie services  etc are already raking in their profits by the thousands and millions, time the tech startup ecosys do same too.<\/p>","post_number":6,"post_type":1,"updated_at":"2015-11-11T09:38:18.587Z","reply_count":0,"reply_to_post_number":2,"quote_count":0,"avg_time":19,"incoming_link_count":0,"reads":99,"score":20.75,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"Temiloluwa Hassan","primary_group_name":null,"version":1,"can_edit":false,"can_delete":false,"can_recover":false,"read":true,"user_title":null,"reply_to_user":{"username":"davidsmith8900","avatar_template":"https://avatars.discourse.org/v2/letter/d/5e9695/{size}.png"},"actions_summary":[],"moderator":false,"admin":false,"staff":false,"user_id":1437,"hidden":false,"hidden_reason_id":null,"trust_level":1,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false},{"id":14371,"name":"Sugabelly","username":"sugabelly","avatar_template":"/user_avatar/radar.techcabal.com/sugabelly/{size}/58_1.png","created_at":"2015-11-11T16:18:42.732Z","cooked":"<p>What is instagrams advertising link ? Twitter is ads.twitter or something<\/p>","post_number":7,"post_type":1,"updated_at":"2015-11-11T16:18:42.732Z","reply_count":2,"reply_to_post_number":null,"quote_count":0,"avg_time":19,"incoming_link_count":9,"reads":80,"score":71.95,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"Sugabelly","primary_group_name":null,"version":1,"can_edit":false,"can_delete":false,"can_recover":false,"read":true,"user_title":null,"actions_summary":[],"moderator":false,"admin":false,"staff":false,"user_id":37,"hidden":false,"hidden_reason_id":null,"trust_level":2,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false},{"id":14379,"name":"David Smith","username":"davidsmith8900","avatar_template":"https://avatars.discourse.org/v2/letter/d/5e9695/{size}.png","created_at":"2015-11-11T18:17:23.362Z","cooked":"<p>Okay, thank you for clarifying that for me. I now understand what you and <a class=\"mention\" href=\"/users/uduak\">@Uduak<\/a> are saying.<\/p>","post_number":8,"post_type":1,"updated_at":"2015-11-11T18:17:23.362Z","reply_count":0,"reply_to_post_number":4,"quote_count":0,"avg_time":18,"incoming_link_count":0,"reads":78,"score":16.5,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"David Smith","primary_group_name":null,"version":1,"can_edit":false,"can_delete":false,"can_recover":false,"read":true,"user_title":null,"reply_to_user":{"username":"ribads","avatar_template":"/user_avatar/radar.techcabal.com/ribads/{size}/1701_1.png"},"actions_summary":[],"moderator":false,"admin":false,"staff":false,"user_id":275,"hidden":false,"hidden_reason_id":null,"trust_level":2,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false},{"id":14381,"name":"David Smith","username":"davidsmith8900","avatar_template":"https://avatars.discourse.org/v2/letter/d/5e9695/{size}.png","created_at":"2015-11-11T18:26:01.189Z","cooked":"<p>Thank you for all the information and links that you've shared. I've learnt enough already and Im looking forward to working with you and getting more insight about what goes in Nigeria (and Africa as well). Thanks as well for the clarification.<\/p>","post_number":9,"post_type":1,"updated_at":"2015-11-11T18:26:01.189Z","reply_count":0,"reply_to_post_number":5,"quote_count":0,"avg_time":18,"incoming_link_count":0,"reads":78,"score":16.5,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"David Smith","primary_group_name":null,"version":1,"can_edit":false,"can_delete":false,"can_recover":false,"read":true,"user_title":null,"reply_to_user":{"username":"Uduak","avatar_template":"https://avatars.discourse.org/v2/letter/u/c0e974/{size}.png"},"actions_summary":[],"moderator":false,"admin":false,"staff":false,"user_id":275,"hidden":false,"hidden_reason_id":null,"trust_level":2,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false},{"id":14382,"name":"Yinusa Kehinde","username":"ribads","avatar_template":"/user_avatar/radar.techcabal.com/ribads/{size}/1701_1.png","created_at":"2015-11-11T18:38:30.270Z","cooked":"<p>You can create Instagram ads from Facebook power editor <a href=\"https://www.facebook.com/ads/manage/powereditor\" rel=\"nofollow\">https://www.facebook.com/ads/manage/powereditor<\/a>. <br>I do not think they run their ads program independently.<\/p>","post_number":10,"post_type":1,"updated_at":"2015-11-11T18:38:30.270Z","reply_count":0,"reply_to_post_number":7,"quote_count":0,"avg_time":24,"incoming_link_count":0,"reads":79,"score":32.0,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"Yinusa Kehinde","primary_group_name":null,"version":1,"can_edit":false,"can_delete":false,"can_recover":false,"link_counts":[{"url":"https://www.facebook.com/ads/manage/powereditor","internal":false,"reflection":false,"title":"Log into Facebook | Facebook","clicks":4}],"read":true,"user_title":null,"reply_to_user":{"username":"sugabelly","avatar_template":"/user_avatar/radar.techcabal.com/sugabelly/{size}/58_1.png"},"actions_summary":[{"id":2,"count":1}],"moderator":false,"admin":false,"staff":false,"user_id":240,"hidden":false,"hidden_reason_id":null,"trust_level":2,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false},{"id":14391,"name":"","username":"ogunlanaolumide","avatar_template":"https://avatars.discourse.org/v2/letter/o/a3d4f5/{size}.png","created_at":"2015-11-11T20:38:06.859Z","cooked":"<p><a class=\"mention\" href=\"/users/uduak\">@Uduak<\/a> <br>Cheap and Effective Marketing is King and Queen. One should not publicly share their results so easily like this....You just gave all your competition easy insight on how to compete with you (and probably outspend you) Especially with the exact data and screenshot...Nobody does that<\/p>\n\n<h1>ItsnoteverytimeYouImpressonRadar<\/h1>","post_number":11,"post_type":1,"updated_at":"2015-11-11T20:42:02.378Z","reply_count":3,"reply_to_post_number":null,"quote_count":0,"avg_time":32,"incoming_link_count":0,"reads":74,"score":31.4,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"","primary_group_name":null,"version":1,"can_edit":false,"can_delete":false,"can_recover":false,"read":true,"user_title":null,"actions_summary":[],"moderator":false,"admin":false,"staff":false,"user_id":511,"hidden":false,"hidden_reason_id":null,"trust_level":2,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false},{"id":14394,"name":"Uduak Ark Asuquo","username":"Uduak","avatar_template":"https://avatars.discourse.org/v2/letter/u/c0e974/{size}.png","created_at":"2015-11-11T21:25:34.008Z","cooked":"<p><a class=\"mention\" href=\"/users/ogunlanaolumide\">@ogunlanaolumide<\/a> You sound like one of those guys in my high school who would report me to the maths teacher for allowing my mates to dub.<br>There is nothing like competition in B2C. You are screaming too hard.<br>Let me share something with you about your market potential.<\/p>\n\n<p>Below is my personal empirical market potential formula which i use for my projects;<\/p>\n\n<p>Annual potential market Size = [Cr * (Mc) * (1 + Gr/100)] + [Ic * Cr * (0.7) * (Mc)]<br>The first component is the percentage of the growth market you can capture, while the second component is how many of the existing maket you can wrestle from competitors.<br>Where;<br>Cr = Challenge ratio - (The ratio of your advertising budget to the total advertising budget of all your competition)<br>Mc = Actual market size<br>Gr = market growth rate in percentage points<br>Ic = Infrastructure coefficient (the number of possible infrastructure channels offered versus the potential available infrastructural support.<br>Eg. Payment channels - mastercard, visa, verve, paypal, google wallet, bank transfer, gtpay, Delivery channels - website, mobile site, android app, blackberry10 app, blackberry 6/7 app, windows app, iphone app, ipad app etc)<br>Cc = Competition coefficient<br>NOTE: I used global customer retention factor of 30% in arriving at the 0.7. There are studies which state that 30% of the market are very resistant to change. Those are the people who only buy flat screen Tvs because they can't find CRT any more (Quote by Simon Sinek.)<br>So there you see it a combination of several factors that affect your success.<br>It all depends on how you want to sleep. Don't ever be scared of sharing information. You learn more when you share.<\/p>\n\n<p><a class=\"mention\" href=\"/users/sugabelly\">@sugabelly<\/a> <a href=\"https://business.instagram.com/advertising/\" rel=\"nofollow\">https://business.instagram.com/advertising/<\/a><br>You would have to be very patient in going through your first instagram ad setup. After the first two, you would find it easier.<\/p>","post_number":12,"post_type":1,"updated_at":"2015-11-11T21:25:34.008Z","reply_count":4,"reply_to_post_number":11,"quote_count":0,"avg_time":44,"incoming_link_count":0,"reads":73,"score":81.8,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"Uduak Ark Asuquo","primary_group_name":null,"version":1,"can_edit":false,"can_delete":false,"can_recover":false,"link_counts":[{"url":"https://business.instagram.com/advertising/","internal":false,"reflection":false,"title":"Instagram Business","clicks":6}],"read":true,"user_title":null,"reply_to_user":{"username":"ogunlanaolumide","avatar_template":"https://avatars.discourse.org/v2/letter/o/a3d4f5/{size}.png"},"actions_summary":[{"id":2,"count":3}],"moderator":false,"admin":false,"staff":false,"user_id":479,"hidden":false,"hidden_reason_id":null,"trust_level":2,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false},{"id":14396,"name":"Jimi - Online Marketing Guy","username":"Jimi","avatar_template":"/user_avatar/radar.techcabal.com/jimi/{size}/764_1.png","created_at":"2015-11-11T21:28:20.348Z","cooked":"<p>Nice analysis. I think you can get more by working on the video. But I doubt the ad led to the downloads because there is no link at the end of the video. What I did was to like it and I moved on.  For most people promoting apps on Instagram, once you click on the image, it takes you straight to the app store or is there another ad that you ran? But you promoted a video, so it could have been Google Play traffic  because your seo seems quite okay. <\/p>\n\n<p>But great work with the advertising. <\/p>\n\n<p>For users outside Nigeria, do they pay via PayPal? <br>Are you using a merchant account for this? I'm quite interested in this <img src=\"/images/emoji/apple/smile.png?v=0\" title=\":smile:\" class=\"emoji\" alt=\":smile:\"><\/p>","post_number":13,"post_type":1,"updated_at":"2015-11-11T21:28:20.348Z","reply_count":1,"reply_to_post_number":null,"quote_count":0,"avg_time":26,"incoming_link_count":0,"reads":68,"score":19.9,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"Jimi - Online Marketing Guy","primary_group_name":null,"version":1,"can_edit":false,"can_delete":false,"can_recover":false,"read":true,"user_title":"","actions_summary":[],"moderator":false,"admin":false,"staff":false,"user_id":613,"hidden":false,"hidden_reason_id":null,"trust_level":2,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false},{"id":14398,"name":"Jimi - Online Marketing Guy","username":"Jimi","avatar_template":"/user_avatar/radar.techcabal.com/jimi/{size}/764_1.png","created_at":"2015-11-11T21:31:54.134Z","cooked":"<p>Any of his competitor who just heard about Instagram ads is not a competitor.<\/p>","post_number":14,"post_type":1,"updated_at":"2015-11-11T21:31:54.134Z","reply_count":1,"reply_to_post_number":11,"quote_count":0,"avg_time":23,"incoming_link_count":0,"reads":66,"score":19.35,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"Jimi - Online Marketing Guy","primary_group_name":null,"version":1,"can_edit":false,"can_delete":false,"can_recover":false,"read":true,"user_title":"","reply_to_user":{"username":"ogunlanaolumide","avatar_template":"https://avatars.discourse.org/v2/letter/o/a3d4f5/{size}.png"},"actions_summary":[],"moderator":false,"admin":false,"staff":false,"user_id":613,"hidden":false,"hidden_reason_id":null,"trust_level":2,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false},{"id":14399,"name":"","username":"ogunlanaolumide","avatar_template":"https://avatars.discourse.org/v2/letter/o/a3d4f5/{size}.png","created_at":"2015-11-11T21:32:06.245Z","cooked":"<p><a class=\"mention\" href=\"/users/uduak\">@Uduak<\/a><br>You know nothing JohnSnow....Trust me...You know absolutely nothing...<br>You have a formula for success with so many variables....(lmfaoooo...U must be Einstein)<br>On a more serious note real life is way way way far from this....<br>Real marketing insight is Golden...Keep impressing, while others keep monetizing..<\/p>\n\n<p>Biko: What projects are you doing again and what is the bull eyes strategy for them..am sure we want to know( or at least I want to know)<\/p>","post_number":15,"post_type":1,"updated_at":"2015-11-11T21:32:06.245Z","reply_count":0,"reply_to_post_number":12,"quote_count":0,"avg_time":24,"incoming_link_count":0,"reads":65,"score":14.2,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"","primary_group_name":null,"version":1,"can_edit":false,"can_delete":false,"can_recover":false,"read":true,"user_title":null,"reply_to_user":{"username":"Uduak","avatar_template":"https://avatars.discourse.org/v2/letter/u/c0e974/{size}.png"},"actions_summary":[],"moderator":false,"admin":false,"staff":false,"user_id":511,"hidden":false,"hidden_reason_id":null,"trust_level":2,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false},{"id":14400,"name":"","username":"ogunlanaolumide","avatar_template":"https://avatars.discourse.org/v2/letter/o/a3d4f5/{size}.png","created_at":"2015-11-11T21:35:19.634Z","cooked":"<p><a class=\"mention\" href=\"/users/jimi\">@Jimi<\/a><br>Really? I dont even get what you mean by this. Instagram ads launched barely 2 months ago in Nigeria.. Whats your point ? You think everyone automatically has tried them and knows about the interesting results.<br>Facebook ad is huge..new products roll out almost weekly.<br>Radar ehnn<\/p>","post_number":16,"post_type":1,"updated_at":"2015-11-11T21:35:19.634Z","reply_count":0,"reply_to_post_number":14,"quote_count":0,"avg_time":22,"incoming_link_count":0,"reads":67,"score":14.5,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"","primary_group_name":null,"version":1,"can_edit":false,"can_delete":false,"can_recover":false,"read":true,"user_title":null,"reply_to_user":{"username":"Jimi","avatar_template":"/user_avatar/radar.techcabal.com/jimi/{size}/764_1.png"},"actions_summary":[],"moderator":false,"admin":false,"staff":false,"user_id":511,"hidden":false,"hidden_reason_id":null,"trust_level":2,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false},{"id":14401,"name":"Uduak Ark Asuquo","username":"Uduak","avatar_template":"https://avatars.discourse.org/v2/letter/u/c0e974/{size}.png","created_at":"2015-11-11T21:36:18.345Z","cooked":"<p><a class=\"mention\" href=\"/users/jimi\">@Jimi<\/a> viewing the link dont really give you what you see when its circulating. It usually includes a \"download\" on the botttom right under the video. <br>Actually, during my research and even in full mode, we usually include a link from google analytics to track my effectiveness.<br>Outside Nigeria, we have a different pack running. We have Mastercard/Visa that don't go through interswitch and Unified Payments. So we use that and Paypal.<\/p>\n\n<p><a class=\"mention\" href=\"/users/ogunlanaolumide\">@ogunlanaolumide<\/a> Oya collect my shirt nah. No vex.<br>Also, because it was open to you two months ago don't mean other people have not been sitting on it. You need to worry less.<\/p>","post_number":17,"post_type":1,"updated_at":"2015-11-11T21:40:37.977Z","reply_count":0,"reply_to_post_number":13,"quote_count":0,"avg_time":22,"incoming_link_count":0,"reads":67,"score":14.5,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"Uduak Ark Asuquo","primary_group_name":null,"version":1,"can_edit":false,"can_delete":false,"can_recover":false,"read":true,"user_title":null,"reply_to_user":{"username":"Jimi","avatar_template":"/user_avatar/radar.techcabal.com/jimi/{size}/764_1.png"},"actions_summary":[],"moderator":false,"admin":false,"staff":false,"user_id":479,"hidden":false,"hidden_reason_id":null,"trust_level":2,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false},{"id":14402,"name":"","username":"ogunlanaolumide","avatar_template":"https://avatars.discourse.org/v2/letter/o/a3d4f5/{size}.png","created_at":"2015-11-11T21:44:40.039Z","cooked":"<aside class=\"quote\" data-post=\"12\" data-topic=\"3145\"><div class=\"title\">\n<div class=\"quote-controls\"><\/div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://avatars.discourse.org/v2/letter/u/c0e974/40.png\" class=\"avatar\">Uduak:<\/div>\n<blockquote><p>Don't ever be scared of sharing information. You learn more when you share.<\/p><\/blockquote><\/aside>\n\n<p>Lmao....You might as well share your customer database while at it..<br>Its obvious you don't know the consequence of what you have done. Allow me explain.<\/p>\n\n<p>Whenever there is a new ad product, if properly executed, the results are great, until it becomes crowded with more advertisers. The more the advertisers, the higher the bidding, the less effective it is for you. At a point only the giants would be able to afford it.<\/p>\n\n<p>Even without your post I am not saying this would not eventually happen, however, putting up your screenshot on radar (for insights clients pay for) is only accelerating the process.<\/p>\n\n<p>You might as well carry a mic and scream : \"Guys this is where am getting all my downloads (customers) from oo..Join me in competing for users attention by bidding higher than me..I love to share on radar cause it makes me look sexy\"<\/p>","post_number":18,"post_type":1,"updated_at":"2015-11-11T22:07:35.665Z","reply_count":3,"reply_to_post_number":12,"quote_count":1,"avg_time":24,"incoming_link_count":1,"reads":66,"score":64.4,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"","primary_group_name":null,"version":2,"can_edit":false,"can_delete":false,"can_recover":false,"read":true,"user_title":null,"reply_to_user":{"username":"Uduak","avatar_template":"https://avatars.discourse.org/v2/letter/u/c0e974/{size}.png"},"actions_summary":[{"id":2,"count":2}],"moderator":false,"admin":false,"staff":false,"user_id":511,"hidden":false,"hidden_reason_id":null,"trust_level":2,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false},{"id":14404,"name":"David Smith","username":"davidsmith8900","avatar_template":"https://avatars.discourse.org/v2/letter/d/5e9695/{size}.png","created_at":"2015-11-11T22:01:33.045Z","cooked":"<p>Thank you for more insight and data. I personally appreciate it.<\/p>","post_number":19,"post_type":1,"updated_at":"2015-11-11T22:01:33.045Z","reply_count":0,"reply_to_post_number":12,"quote_count":0,"avg_time":20,"incoming_link_count":0,"reads":64,"score":58.8,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"David Smith","primary_group_name":null,"version":1,"can_edit":false,"can_delete":false,"can_recover":false,"read":true,"user_title":null,"reply_to_user":{"username":"Uduak","avatar_template":"https://avatars.discourse.org/v2/letter/u/c0e974/{size}.png"},"actions_summary":[{"id":2,"count":1}],"moderator":false,"admin":false,"staff":false,"user_id":275,"hidden":false,"hidden_reason_id":null,"trust_level":2,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false},{"id":14408,"name":"Λbdulhaqq Sulaiman™","username":"MrASulaiman","avatar_template":"/user_avatar/radar.techcabal.com/mrasulaiman/{size}/1744_1.png","created_at":"2015-11-12T00:44:13.451Z","cooked":"<p>Work hard in silence, let your success be your noise. AGREED!<\/p>\n\n<p>Calm down <a class=\"mention\" href=\"/users/ogunlanaolumide\">@ogunlanaolumide<\/a>; it might interest you to know that sharing business data can also be an advantage.<br>Coopetition Leads to Crowd-Sourced Intelligence.<\/p>\n\n<p>“When companies that would normally be at each other’s throats, suddenly start cooperating, they like to <a href=\"http://techcrunch.com/2014/10/17/the-spirit-of-coopetition-is-alive-and-well-in-the-cloud/\" rel=\"nofollow\">call it coopetition<\/a>,” says TechCrunch. “You could call it being frenemies, but whatever you call it, these companies are coming together in seemingly greater numbers —and the customers are the beneficiaries.”  <\/p>\n\n<p>Consumers and customers don’t really care about competition; they just want products to work well together and they want to benefit from increased transparency into why one business can be trusted more than another. Since even companies who wish to compete with each other can’t get access to all the data they need on their own to meet these demands, they are increasingly looking for ways to connect through coopetition.   <\/p>\n\n<p>Investing in the connections among team members both increases productivity and reduces risks. In this case Radar. If only you knew the loop-holes other folks could divulge to <a class=\"mention\" href=\"/users/uduak\">@Uduak<\/a> which he could implement and increase his conversion, insights which he could not not otherwise access, which will in turn put his product one-step ahead?<\/p>\n\n<p>The sharing economy is upon us and is growing. Take the back-seat or drive angry. #PunIntended<\/p>","post_number":20,"post_type":1,"updated_at":"2015-11-12T00:44:13.451Z","reply_count":0,"reply_to_post_number":18,"quote_count":0,"avg_time":30,"incoming_link_count":0,"reads":60,"score":13.5,"yours":false,"topic_id":3145,"topic_slug":"instagram-is-killing-advertising","display_username":"Λbdulhaqq Sulaiman™","primary_group_name":null,"version":1,"can_edit":false,"can_delete":false,"can_recover":false,"link_counts":[{"url":"http://techcrunch.com/2014/10/17/the-spirit-of-coopetition-is-alive-and-well-in-the-cloud/","internal":false,"reflection":false,"title":"The Spirit Of Coopetition Is Alive And Well In The Cloud | TechCrunch","clicks":0}],"read":true,"user_title":"","reply_to_user":{"username":"ogunlanaolumide","avatar_template":"https://avatars.discourse.org/v2/letter/o/a3d4f5/{size}.png"},"actions_summary":[],"moderator":false,"admin":false,"staff":false,"user_id":759,"hidden":false,"hidden_reason_id":null,"trust_level":2,"deleted_at":null,"user_deleted":false,"edit_reason":null,"can_view_edit_history":true,"wiki":false}],"stream":[14303,14305,14307,14314,14321,14325,14371,14379,14381,14382,14391,14394,14396,14398,14399,14400,14401,14402,14404,14408,14414,14417,14422,14425,14436,14437,14440,14442,14443,14444,14446,14447,14448,14466,14467,14472,14473,14474,14477,14478,14479,14483,14486,14487,14500,14521,14523,14524,14525,14526,14529,14530,14534,14535]},"id":3145,"title":"Instagram is killing advertising","fancy_title":"Instagram is killing advertising","posts_count":54,"created_at":"2015-11-11T01:08:13.565Z","views":575,"reply_count":38,"participant_count":20,"like_count":49,"last_posted_at":"2015-11-13T07:26:29.421Z","visible":true,"closed":false,"archived":false,"has_summary":true,"archetype":"regular","slug":"instagram-is-killing-advertising","category_id":1,"word_count":5659,"deleted_at":null,"user_id":479,"draft":null,"draft_key":"topic_3145","draft_sequence":null,"unpinned":null,"pinned_globally":false,"pinned":false,"pinned_at":null,"pinned_until":null,"details":{"auto_close_at":null,"auto_close_hours":null,"auto_close_based_on_last_post":false,"created_by":{"id":479,"username":"Uduak","avatar_template":"https://avatars.discourse.org/v2/letter/u/c0e974/{size}.png"},"last_poster":{"id":511,"username":"ogunlanaolumide","avatar_template":"https://avatars.discourse.org/v2/letter/o/a3d4f5/{size}.png"},"participants":[{"id":511,"username":"ogunlanaolumide","avatar_template":"https://avatars.discourse.org/v2/letter/o/a3d4f5/{size}.png","post_count":13},{"id":479,"username":"Uduak","avatar_template":"https://avatars.discourse.org/v2/letter/u/c0e974/{size}.png","post_count":6},{"id":275,"username":"davidsmith8900","avatar_template":"https://avatars.discourse.org/v2/letter/d/5e9695/{size}.png","post_count":5},{"id":238,"username":"PapaOlabode","avatar_template":"/user_avatar/radar.techcabal.com/papaolabode/{size}/292_1.png","post_count":3},{"id":24,"username":"akindolu","avatar_template":"/user_avatar/radar.techcabal.com/akindolu/{size}/1004_1.png","post_count":3},{"id":1429,"username":"JesusChrist","avatar_template":"https://avatars.discourse.org/v2/letter/j/7ea924/{size}.png","post_count":2},{"id":39,"username":"xolubi","avatar_template":"/user_avatar/radar.techcabal.com/xolubi/{size}/60_1.png","post_count":2},{"id":217,"username":"akamaozu","avatar_template":"/user_avatar/radar.techcabal.com/akamaozu/{size}/1628_1.png","post_count":2},{"id":73,"username":"Possicon","avatar_template":"/user_avatar/radar.techcabal.com/possicon/{size}/1830_1.png","post_count":2},{"id":33,"username":"binjoadeniran","avatar_template":"/user_avatar/radar.techcabal.com/binjoadeniran/{size}/52_1.png","post_count":2},{"id":975,"username":"spokentwice","avatar_template":"/user_avatar/radar.techcabal.com/spokentwice/{size}/1223_1.png","post_count":2},{"id":613,"username":"Jimi","avatar_template":"/user_avatar/radar.techcabal.com/jimi/{size}/764_1.png","post_count":2},{"id":240,"username":"ribads","avatar_template":"/user_avatar/radar.techcabal.com/ribads/{size}/1701_1.png","post_count":2},{"id":401,"username":"Nosaaaa","avatar_template":"/user_avatar/radar.techcabal.com/nosaaaa/{size}/634_1.png","post_count":2},{"id":23,"username":"seyitaylor","avatar_template":"/user_avatar/radar.techcabal.com/seyitaylor/{size}/45_1.png","post_count":1},{"id":37,"username":"sugabelly","avatar_template":"/user_avatar/radar.techcabal.com/sugabelly/{size}/58_1.png","post_count":1},{"id":493,"username":"ADT","avatar_template":"/user_avatar/radar.techcabal.com/adt/{size}/624_1.png","post_count":1},{"id":759,"username":"MrASulaiman","avatar_template":"/user_avatar/radar.techcabal.com/mrasulaiman/{size}/1744_1.png","post_count":1},{"id":763,"username":"Oboraxe","avatar_template":"/user_avatar/radar.techcabal.com/oboraxe/{size}/1019_1.png","post_count":1},{"id":1437,"username":"phassan","avatar_template":"https://avatars.discourse.org/v2/letter/p/3bc359/{size}.png","post_count":1}],"suggested_topics":[{"id":198,"title":"The state of mobile money/payments in Nigeria","fancy_title":"The state of mobile money/payments in Nigeria","slug":"the-state-of-mobile-money-payments-in-nigeria","posts_count":1,"reply_count":0,"highest_post_number":1,"image_url":null,"created_at":"2015-04-15T05:16:06.243Z","last_posted_at":"2015-04-15T05:16:06.448Z","bumped":true,"bumped_at":"2015-04-15T05:27:03.375Z","unseen":false,"pinned":false,"unpinned":null,"visible":true,"closed":false,"archived":false,"bookmarked":null,"liked":null,"archetype":"regular","like_count":0,"views":425,"category_id":1},{"id":360,"title":"One Africa Media acquires Jobberman 100%. Congrats?","fancy_title":"One Africa Media acquires Jobberman 100%. Congrats?","slug":"one-africa-media-acquires-jobberman-100-congrats","posts_count":12,"reply_count":8,"highest_post_number":12,"image_url":null,"created_at":"2015-04-29T14:19:49.837Z","last_posted_at":"2015-05-04T10:14:57.197Z","bumped":true,"bumped_at":"2015-05-04T10:14:57.197Z","unseen":false,"pinned":false,"unpinned":null,"visible":true,"closed":false,"archived":false,"bookmarked":null,"liked":null,"archetype":"regular","like_count":12,"views":704,"category_id":1},{"id":796,"title":"Do we need a service like Yelp for Nigeria?","fancy_title":"Do we need a service like Yelp for Nigeria?","slug":"do-we-need-a-service-like-yelp-for-nigeria","posts_count":6,"reply_count":0,"highest_post_number":6,"image_url":null,"created_at":"2015-05-28T15:17:08.618Z","last_posted_at":"2015-05-29T22:00:05.418Z","bumped":true,"bumped_at":"2015-05-29T22:00:05.418Z","unseen":false,"pinned":false,"unpinned":null,"visible":true,"closed":false,"archived":false,"bookmarked":null,"liked":null,"archetype":"regular","like_count":4,"views":422,"category_id":1},{"id":895,"title":"Products serving neglected markets","fancy_title":"Products serving neglected markets","slug":"products-serving-neglected-markets","posts_count":3,"reply_count":0,"highest_post_number":3,"image_url":null,"created_at":"2015-06-03T18:42:42.720Z","last_posted_at":"2015-06-03T22:22:15.727Z","bumped":true,"bumped_at":"2015-06-03T22:22:15.727Z","unseen":false,"pinned":false,"unpinned":null,"visible":true,"closed":false,"archived":false,"bookmarked":null,"liked":null,"archetype":"regular","like_count":5,"views":218,"category_id":1},{"id":8,"title":"Radar Guidelines: READ FIRST PLEASE!","fancy_title":"Radar Guidelines: READ FIRST PLEASE!","slug":"radar-guidelines-read-first-please","posts_count":12,"reply_count":2,"highest_post_number":12,"image_url":null,"created_at":"2015-03-18T19:23:19.265Z","last_posted_at":"2015-11-12T21:26:16.560Z","bumped":true,"bumped_at":"2015-11-12T21:26:16.560Z","unseen":false,"pinned":true,"unpinned":null,"excerpt":"What is Radar?\n\nA forum where the African tech community can discuss, share ideas and make connections. \n\nWhat Radar is NOT\n\nAn African Quora, HackerNews, Reddit etc. \n\nThe Three Commandments\n\n\nBe helpful.\nBe positive.\nB&hellip;","visible":true,"closed":false,"archived":false,"bookmarked":null,"liked":null,"archetype":"regular","like_count":7,"views":2445,"category_id":1}],"links":[{"url":"https://instagram.com/p/94DU5jwnGu/","title":"Instagram","fancy_title":null,"internal":false,"attachment":false,"reflection":false,"clicks":41,"user_id":479,"domain":"instagram.com"},{"url":"http://www.shareapps.net","title":"Share Apps | Mobile Apps Promotion & Marketing","fancy_title":null,"internal":false,"attachment":false,"reflection":false,"clicks":18,"user_id":479,"domain":"www.shareapps.net"},{"url":"https://business.instagram.com/advertising/","title":"Instagram Business","fancy_title":null,"internal":false,"attachment":false,"reflection":false,"clicks":6,"user_id":479,"domain":"business.instagram.com"},{"url":"https://www.facebook.com/ads/manage/powereditor","title":"Log into Facebook | Facebook","fancy_title":null,"internal":false,"attachment":false,"reflection":false,"clicks":4,"user_id":240,"domain":"www.facebook.com"},{"url":"http://159.203.122.79/3hacks/","title":"How to Hijack Your Competitors’ Best Strategies & Customers","fancy_title":null,"internal":false,"attachment":false,"reflection":false,"clicks":4,"user_id":975,"domain":"159.203.122.79"},{"url":"https://www.facebook.com/business/help/1443935649245791","title":"How can I create an Instagram ad in Power Editor? | Facebook Help Center | Facebook","fancy_title":null,"internal":false,"attachment":false,"reflection":false,"clicks":4,"user_id":479,"domain":"www.facebook.com"},{"url":"http://159.203.122.79/growyourself/","title":"Teach Yourself valuable growth hacking skills - How-To Guide","fancy_title":null,"internal":false,"attachment":false,"reflection":false,"clicks":3,"user_id":975,"domain":"159.203.122.79"},{"url":"http://startupclass.samaltman.com/","title":"How to Start a Startup","fancy_title":null,"internal":false,"attachment":false,"reflection":false,"clicks":2,"user_id":975,"domain":"startupclass.samaltman.com"},{"url":"https://www.facebook.com/business/help/community/question/?id=861399850598805","title":"How can I target my ad to only reach my friends? | Facebook Help Community | Facebook","fancy_title":null,"internal":false,"attachment":false,"reflection":false,"clicks":0,"user_id":511,"domain":"www.facebook.com"},{"url":"http://radar.techcabal.com/t/what-does-it-really-take-to-get-a-commited-php-developer-in-a-growing-company/1716","title":"What does it really take to get a commited PHP developer in a growing company?","fancy_title":null,"internal":true,"attachment":false,"reflection":false,"clicks":0,"user_id":39,"domain":"radar.techcabal.com"},{"url":"http://techcrunch.com/2014/10/17/the-spirit-of-coopetition-is-alive-and-well-in-the-cloud/","title":"The Spirit Of Coopetition Is Alive And Well In The Cloud | TechCrunch","fancy_title":null,"internal":false,"attachment":false,"reflection":false,"clicks":0,"user_id":759,"domain":"techcrunch.com"}],"notification_level":1,"can_flag_topic":false},"highest_post_number":54,"deleted_by":null,"actions_summary":[{"id":4,"count":0,"hidden":false,"can_act":false},{"id":7,"count":0,"hidden":false,"can_act":false},{"id":8,"count":0,"hidden":false,"can_act":false}],"chunk_size":20,"bookmarked":null});
+      </script>
+<script>
+  window.assetPath = (function(){
+    var map = {"defer/html-sanitizer-bundle":"/assets/defer/html-sanitizer-bundle-d248c5e7fffd65438fab42fafa3d1d56.js"};
+    return function(asset) { return map[asset]; };
+  })();
+</script>
+<script>
+  Ember.RSVP.configure('onerror', function(e) {
+    // Ignore TransitionAborted exceptions that bubble up
+    if (e && e.message === "TransitionAborted") { return; }
+
+    window.onerror(e && e.message, null,null,null,e);
+  });
+
+
+</script>
+<script>
+  Discourse.CDN = '';
+  Discourse.BaseUrl = 'radar.techcabal.com'.replace(/:[\d]*$/,"");
+  Discourse.BaseUri = '';
+  Discourse.Environment = 'production';
+  Discourse.SiteSettings = PreloadStore.get('siteSettings');
+  Discourse.LetterAvatarVersion = '5_64b268823de25c3c4365087b878b9ba2';
+  I18n.defaultLocale = 'en';
+  PreloadStore.get("customEmoji").forEach(function(emoji) {
+    Discourse.Dialect.registerEmoji(emoji.name, emoji.url);
+  });
+  Discourse.start();
+  Discourse.set('assetVersion','9e0f655abfc2bed723bc9d62da123427');
+  Discourse.Session.currentProp("disableCustomCSS", false);
+  Discourse.HighlightJSPath = "/highlight-js/radar.techcabal.com/2aff3bd4ee9e3894d6cb952368214572476e6d0c.js";
+</script>
+<script src="/assets/browser-update-52c0c854d42ecbfc536988f134888f0e.js"></script>
+</body>
+</html>
